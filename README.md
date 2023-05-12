@@ -1,3 +1,3 @@
-# CourseraOffical
+# MatPlotLib Basic Charts Reference Page
 
-##Hello!
+## Reference page from Coursera that will come in handy
